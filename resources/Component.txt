@@ -1,0 +1,23 @@
+import * as React from 'react';
+
+type __COMPONENTNAME__Props = {};
+type __COMPONENTNAME__State = {};
+
+export default class __COMPONENTNAME__ extends React.PureComponent<__COMPONENTNAME__Props, __COMPONENTNAME__State> {
+    /**
+     *  Constructors
+     */
+    public constructor(props: __COMPONENTNAME__Props) {
+        super(props);
+    }
+
+
+    /**
+     *  Methods
+     */
+    public render(): JSX.Element {
+        return (
+            <div>Hello World from __COMPONENTNAME__</div>
+        );
+    }
+}

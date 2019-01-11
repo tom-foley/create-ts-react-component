@@ -1,0 +1,20 @@
+{
+  "name": "create-ts-react-component",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tom Foley",
+  "license": "MIT",
+  "bin": {
+    "create-ts-react-component": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "devDependencies": {
+    "@types/node": "^10.12.10",
+    "typescript": "^3.1.6"
+  }
+}

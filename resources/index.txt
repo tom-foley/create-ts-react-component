@@ -1,0 +1,2 @@
+import __COMPONENTNAME__ from './__COMPONENTNAME__';
+export default __COMPONENTNAME__;
